@@ -1,2 +1,3 @@
-# SnakeGame
-mockupSnakeGame
+# Multiplayer Rock Paper Scissors
+Rock Paper Scissors
+
